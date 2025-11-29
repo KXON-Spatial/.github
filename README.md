@@ -1,4 +1,4 @@
-# KXON-spatial 🟢
+# KXON-spatial
 
 ### Projects
 
